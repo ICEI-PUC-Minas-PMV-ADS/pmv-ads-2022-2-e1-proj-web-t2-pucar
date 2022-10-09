@@ -1,91 +1,50 @@
-# Especificações do Projeto
+#	Especificações do projeto
+Para definirmos os problemas e pontos relevantes a serem tratados neste projeto, foi feita uma pesquisa pelos membros da equipe com os usuários em busca de entender melhor seus meios de locomoção e seus desafios enfrentados. Os dados encontrados foram estruturados em forma de personas e histórias de usuários.
+##	Personas
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
+![image](https://user-images.githubusercontent.com/114882542/194776056-f17c7981-c16b-400a-a1b4-434facd3d90c.png)
+![image](https://user-images.githubusercontent.com/114882542/194776073-8a396b27-c557-46cb-9e8d-1a3a805e4eb9.png)
+![image](https://user-images.githubusercontent.com/114882542/194776084-0bc9a2da-a1b7-4eb4-954f-f8499e581513.png)
+## História dos Usuários
+A partir do estudo diário da vida das personas identificadas para o projeto, foram registradas duas histórias:
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+|Eu como… [PERSONA]| … quero/desejo… [O QUE]|... para...[POR QUÊ]|
+|------------------|------------------------|--------------------|
+|Patrícia Sena|Gostaria de ter a liberdade para criar e personalizar meu perfil.|Para poder fazer minhas alterações de perfis. As pessoas poderão ver quem sou e a região onde moro, facilitando a pesquisa por caronas.|
+|Patrícia Sena|Gostaria de poder desativar a minha conta, sem precisar de acionar um suporte.|Para usufruir melhor as ferramentas de carona do site e desativar minha conta quando eu desejar.|
+|Patrícia Sena|Ver orientações de segurança.|Tomar ciência de como viajar com segurança.|
+|Rogério Oliveira|Desejo combinar caronas apenas com outros alunos da universidade.|Para que problemas de segurança sejam minorados.|
+|Rogério Oliveira|Quero que o site seja um ambiente seguro e esteja conforme os padrões os exigidos pela lei LGPD.|Me preocupo com o que farão com meus dados e se o site este no padrão exigido pela LGDP.|
+|Leonardo Silveira Magalhães|Gostaria de poder pesquisar por motoristas que possam me dar carona até a universidade.|Para que eu possa encontrar caronas com praticidade.|
+|Leonardo Silveira Magalhães|Gostaria de poder abrir o site no celular ou computador.|Para que eu possa utilizar de onde eu estiver.|
+|Leonardo Silveira Magalhães|Quero um site que apresente um texto falando sobre como usá-lo.|Aprender de forma objetiva as funções do site criara mais interesse em usá-lo.|
+##	Requisitos do Projeto
+O projeto será dividido em requisitos funcionais e não funcionais, sendo que, os requisitos funcionais definem as interações disponíveis no projeto e os requisitos não funcionais definem as características que o projeto deverá ser apresentado. Isso será exposto e detalhado nas tabelas abaixo.
+##	Requisitos Funcionais
+A tabela a seguir apresenta os requisitos funcionais do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+|ID|Descrição|Prioridade|
+|--|---------|----------|
+|RF-01|O site deve apresentar na página principal deve apresentar um direcionamento completo de como se conseguir caronas utilizando o site.|Média|
+|RF-02|O site deve oferecer uma funcionalidade de cadastro de novo usuário.|Alta|
+|RF-03|O site deve oferecer uma funcionalidade de alteração de cadastro de usuário.|Alta|
+|RF-04|O site deve coletar os dados nome, número de matrícula, bairro, telefone, condutor e nova senha.|Alta|
+|RF-05|O site deve apresentar formulário LGPD para consentimento dos usuários.|Média|
+|RF-06|O site deve oferecer uma área logada com sistema de busca de usuários por localidade.|Alta|
+|RF-07|O site deve oferecer a funcionalidade de inativar cadastro.|Média|
+|RF-08|O site deve apresentar página com orientações de segurança.|Baixa|
+##	Requisitos Não Funcionais
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+|ID|Descrição|Prioridade|
+|--|---------|----------|
+|RNF-01|O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku).|Alta|
+|RNF-02|O site deverá ser responsivo permitindo a visualização em um celular de forma adequada.|Alta|
+|RNF-03|O site deve ter bom nível de contraste entre os elementos da tela em conformidade.|Média|
+|RNF-04|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|Alta|
+##	Restrições
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
+|ID|Descrição|
+|--|---------|
+|RE-01|O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 11/12/2022.|
+|RE-02|O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.|
+|RE-03|A equipe não pode subcontratar o desenvolvimento do trabalho.|
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
-## Personas
-
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
-## Histórias de Usuários
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
