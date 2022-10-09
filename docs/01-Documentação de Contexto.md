@@ -1,46 +1,19 @@
-# Introdução
-
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-
+# Documentação de Contexto
+A curto prazo, não existe alternativa para reduzir a quantidade de carros que circulam nas ruas, nem mesmo a alta da inflação, burocracias para financiamentos, e o desabastecimento de peças para montagem de carros foram capazes de inibir a quantidade de novos carros que circulam nas ruas todos os dias.
+Analisando a quantidade de veículos estacionados ao redor das faculdades, percebe-se seu alto número. Devemos nos atentar, porém, ao fato da maioria das pessoas irem sozinhas no seu veículo, não se atentando a uma alternativa que traria benefícios não apenas financeiros, mas também ambientais e urbanos: a carona para colegas do mesmo campus. De acordo com uma pesquisa realizada pelos órgãos do Ministério da Infraestrutura, SENATRAN e RENAVAM (2022), todo mês são emplacados em torno de 60 mil carros por mês e mais a frota que já temos em torno de 31,4 milhões de carros circulando, ou seja, é muita poluição, congestionamento, gastos com combustível. Sendo assim, pensamos em como podemos contribuir com o planeta, melhorar o trânsito e ajudar o bolso do povo brasileiro.
+Mediante a situação complicada vivida pelo corpo social, necessita-se de uma solução que pode ser aplicada em diversas áreas da sociedade, instituições de ensino, empresariais e até públicas; para juntos buscarmos o mesmo objetivo.
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Este projeto tem como finalidade encontrar uma solução para a coordenação de caronas entre os alunos com destino a universidade.
+##	Objetivos
+O objetivo principal deste projeto é desenvolver uma aplicação web que irá facilitar a locomoção dos estudantes universitários, possibilitando o serviço de carona entre os alunos, de forma fácil e segura. Como objetivos específicos:
+>-	Assegurar que é um Estudante da PUC Minas;
+>-	Estabelecer contato entre estudante motorista e estudantes passageiros;
+>-	Estabelecimento de caronas próximas geograficamente.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
-## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
-## Justificativa
-
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
-## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+##	Justificativa
+O transporte e locomoção para os centros universitários sempre se mostraram importantes durante a vida acadêmica dos estudantes uma vez que suas dificuldades e problemáticas impactam na permanência dos mesmos em sua formação superior. O transporte universitário acaba não sendo completamente acessível a todos os necessitados, dado que não consegue abranger todos os bairros em suas rotas e também à superlotação.
+As caronas muitas das vezes vistas como a solução para tal problemática, são a melhor forma de economizar não apenas tempo, mas também dinheiro, visto que o preço do combustível no Brasil está em crescimento. De acordo com texto publicado no jornal Estadão em janeiro de 2022 a carona segue sendo a melhor alternativa, causando impactos positivos no trânsito, no meio ambiente e aliviando financeiramente as pessoas que a utilizam. 
+Dentro do meio universitário as caronas sempre se fizeram presente. O aplicativo, então, segue para facilitar o encontro e comunicação de pessoas necessitadas de tal serviço. A segurança, integração universitária, diminuição do trânsito, acessibilidade de locomoção e meio ambiente são os principais pontos a serem trabalhados através do projeto.  
+##	Público-alvo
+Apesar do projeto ter capacidade para ser aplicado em qualquer lugar, inicialmente será focado somente a alunos com matrícula ativa na PUC Minas, em seu sistema da instituição, e que se locomovem para a faculdade todos os dias para assistir às aulas.
+Separaremos o público em dois grupos: os motoristas e os passageiros (ambos realizariam o cadastro no sistema). Os motoristas precisam ser maiores de 18 anos, serem habilitados e terem carro, os passageiros precisam ser maiores de 18 anos, porém, caso não sejam, precisam da autorização da pessoa responsável.
