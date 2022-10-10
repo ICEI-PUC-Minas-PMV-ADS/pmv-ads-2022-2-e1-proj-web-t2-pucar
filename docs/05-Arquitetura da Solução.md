@@ -4,6 +4,7 @@
 
 Nesta secção são apresentados os detalhes técnicos da solução criada pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem da solução.
 
+![arquitetura da solucao](img/arquitetura-da-solucao.png)
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
