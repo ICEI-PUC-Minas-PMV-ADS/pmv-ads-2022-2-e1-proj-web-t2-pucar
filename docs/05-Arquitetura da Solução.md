@@ -11,7 +11,6 @@ Diagrama que permite a modelagem física de um sistema, através da visão dos s
 
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
-![image](https://user-images.githubusercontent.com/106103247/194788999-3e6460ea-4627-4541-ace6-cc7bffa7d934.png)
 
 
 A solução implementada conta com os seguintes módulos:
