@@ -1,12 +1,12 @@
 # PUCar
 
-`CURSO`
+`Análise e desenvolvimento de sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`1° semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto tem como finalidade encontrar uma solução para a coordenação de caronas entre os alunos com destino a universidade.
 
 ## Integrantes
 
