@@ -5,7 +5,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 ## User Flow
 
-![Exemplo de UserFlow](img/diagrama.png)
+![Exemplo de UserFlow](img/Diagrama_Pagina_1.png)
 
 ## Fluxo do Usuário
 O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. 
