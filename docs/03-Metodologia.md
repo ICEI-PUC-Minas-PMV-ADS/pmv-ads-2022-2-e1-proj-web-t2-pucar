@@ -17,14 +17,12 @@ A equipe está organizada da seguinte maneira:
 >- Product Owner: Felipe Augusto Duque Ferreira
 >- Equipe de Desenvolvimento:
 >> Vinicius Carneiro Gonçalves; <br />
-Jonas Sotero Xaivier Costa; <br />
 Larissa Silva Melo; <br />
 Vanessa Lima da Silva Chaves; <br />
 Ricardo Moreira Siqueira Junior; <br />
 Felipe Augusto Duque Ferreira;
 >-	Equipe de Design:
 >> Vinicius Carneiro Gonçalves; <br />
-	Jonas Sotero Xaivier Costa; <br />
 	Larissa Silva Melo; <br />
 	Vanessa Lima da Silva Chaves; <br />
 	Ricardo Moreira Siqueira Junior; <br />
