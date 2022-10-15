@@ -28,3 +28,7 @@ A tela de cadastro de Usuário apresenta as especificações representadas na im
 ## Tela - Login
 A tela de login de Usuário apresenta as especificações representadas na imagem a seguir
 ![cadastro](img/wireframe-login.png)
+
+## Tela - Resultado de busca
+A tela de Resultado de busca apresenta as especificações representadas na imagem a seguir
+![cadastro](img/wireframe-login.png)
