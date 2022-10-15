@@ -31,4 +31,4 @@ A tela de login de Usuário apresenta as especificações representadas na image
 
 ## Tela - Resultado de busca
 A tela de Resultado de busca apresenta as especificações representadas na imagem a seguir
-![cadastro](img/wireframe-login.png)
+![cadastro](img/wireframe-resultado-de-busca.png)
