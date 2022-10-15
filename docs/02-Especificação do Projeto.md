@@ -14,6 +14,7 @@ A partir do estudo diário da vida das personas identificadas para o projeto, fo
 |Patrícia Sena|Gostaria de poder desativar a minha conta, sem precisar de acionar um suporte.|Para usufruir melhor as ferramentas de destivação, assim economizando meu tempo .|
 |Patrícia Sena|Ver orientações de segurança.|Tomar ciência de como viajar com segurança.|
 |Rogério Oliveira|Desejo combinar caronas apenas com outros alunos da universidade.|Para que problemas de segurança sejam minimizados .|
+|Rogério Oliveira|Desejo procurar passageiros e motoristas.|Para que eu tenho somente informações relevantes na pesquisa.|
 |Rogério Oliveira|Quero que o site seja um ambiente seguro e esteja conforme os padrões os exigidos pela lei LGPD.|Me preocupo com o que farão com meus dados e se o site está no padrão exigido pela LGDP.|
 |Leonardo Silveira Magalhães|Gostaria de poder pesquisar por motoristas que possam me dar carona até a universidade.|Para que eu possa encontrar caronas com praticidade.|
 |Leonardo Silveira Magalhães|Gostaria de poder abrir o site no celular ou computador.|Para que eu possa utilizar de onde eu estiver.|
