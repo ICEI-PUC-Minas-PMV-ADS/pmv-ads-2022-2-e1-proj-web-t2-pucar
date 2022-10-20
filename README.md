@@ -14,6 +14,7 @@ Este projeto tem como finalidade encontrar uma solução para a coordenação de
 * Larissa Silva Melo
 * Vanessa Lima da Silva Chaves
 * Vinicius Carneiro Gonçalves
+* Ricardo Moreira Siqueira Junior
 
 ## Orientador
 
