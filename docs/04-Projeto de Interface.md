@@ -19,7 +19,6 @@ Na tela home-page ira ter uma apresentação do site e também muitas de suas fu
 ## Tela – Perfil do Usuário
 Na tela “Perfil do Usuário” é apresentado os dados pessoais enviados pelo usuário após o cadastro. Ao clicar na logo o usuário pode retornar a página principal. Clicando no botão de “alterar a imagem”, o usuário poderá colocar uma foto de perfil, que pode ser trocada quando bem desejar. Clicando no botão “Alterar” do lado de dados pessoais, será levado a uma página onde sua senha será pedida para que possa alterar seus dados pessoais. E clicando no botão de “Excluir Conta”, o usuário será levado a uma página que irá pedir sua senha, feito o procedimento outra página vai se abrir o permitindo excluir seu cadastro.
 ![perfil](img/wireframe-perfil.png)
-![destivação](img/wireframe-desativacao-de-conta.png)
 
 ## Tela - Cadastro
 A tela de cadastro de Usuário apresenta as especificações representadas na imagem a seguir
