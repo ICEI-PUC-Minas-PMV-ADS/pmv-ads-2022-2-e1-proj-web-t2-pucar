@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Cadastro</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="/img/logonova.png">
+</head>
+<body onload="init()">
+
+    <!--retorno para homepage-->
+    <header class="cabecalho">
+        <img src="/img/seta.png" alt="seta" onclick=""> <!--inserir chamada para homepage-->
+    </header>
+    
+    <main>
+        <div class="caixa" style="display: flex;">
+            <h1>Preencha as Informações de Cadastro</h1>
+            
+            <div class="cxTexto">
+                <label for="email" id="nome">E-mail:</label><br>
+                <input type="text" placeholder="Digite aqui..."><br>
+                <label for="senha">Senha:</label><br>
+                <input type="text" placeholder="Digite aqui..."><br>
+                <label for="cSenha">Confirme sua senha:</label><br>
+                <input type="text" placeholder="Digite aqui..."><br>
+                <label for="matricula">Número de matrícula:</label><br>
+                <input type="text" placeholder="Digite aqui..."><br> 
+                <label for="telefone">Telefone:</label><br>
+                <input type="text" placeholder="Digite aqui..."><br>
+                <label for="bairro">Bairro:</label><br>
+                <input type="text" placeholder="Digite aqui...">
+                <br>
+            </div>
+            <div class="tipo">
+                <label for="motorista">Motorista</label>
+                <input type="radio" id="motorista" name="tipo">
+                <input type="radio" id="passageiro" name="tipo">
+                <label for="passageiro" class="radio">Passageiro</label>
+            </div>   
+            <button class="btn">Cadastrar</button>
+        </div>
+            
+    </main>
+</body>
+</html>
+                 
+        
