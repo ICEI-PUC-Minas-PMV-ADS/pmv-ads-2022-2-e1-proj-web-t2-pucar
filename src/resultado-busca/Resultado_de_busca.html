@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1.5">
+    <title>Resultado de Pesquisa</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" media="screen and (min-width: 800px)" href="tela_g.css">
+    <link rel="stylesheet" media="screen and (max-width: 799px)" href="tela_p.css">
+    <link rel="icon" href="imagens/logonova.png">
+</head>
+  <body>
+    <!--Cabeçalho para tela Grande-->
+    <header class="cabecalhoG">
+        <div class="cabecalhoG-dentro">
+            <div class="cabecalhoG-esquerdo">
+                <img src="imagens/logonova.png" alt="logo nova" class="logonova">
+                <select name="dropdown" id="dropdown">
+                    <option value="Conheça o Projeto">Conheça o Projeto</option>
+                    <option value="Sobre">Sobre</option>
+                    <option value="Como Utilizar">Como Utilizar</option>
+                    <option value="Segurança">Segurança</option>
+                    <option value="Financeiro">Financeiro</option>
+                </select>
+                <button>Fale Conosco</button>
+            </div>
+            <div class="cabecalhoG-direito">
+                <button>Login</button>
+                <button>Cadastro</button>
+            </div>
+        </div>
+    </header>
+    <!--Cabeçalho para tela pequena-->
+   <header class="cabecalhoP">
+    <nav class="navbar navbar-expand-lg" id="expansion">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"><img src="imagens/logonova.png" alt="logo nova" class="logonova"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#"></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Fale Conosco</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Login</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Cadastro</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Mais
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Sobre</a></li>
+                  <li><a class="dropdown-item" href="#">Como Utilizar</a></li>
+                  <li><a class="dropdown-item" href="#">Segurança</a></li>
+                  <li><a class="dropdown-item" href="#">Financeiro</a></li>
+                  <li><hr class="dropdown-divider"></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled"></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+   </header>
+   <!--Conteúdo Principal para tela grande-->
+   <main class="principalG">
+        <div class="principal-upG">
+            <div class="fraseG"><h1>Busque sua carona aqui no PUCar...</h1></div>
+            <div class="formularioG">
+                <input type="search" name="endereco" id="" placeholder="Insira seu Endereço" class="pesquisaG"  size="60">
+                <button><img src="imagens/User Icon.png" alt="" class="botoesG"></button>
+                <button><img src="imagens/volante" alt="" class="botoesG"></button>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4" id="user-block1">
+                  <div class="bloco-userG">
+                    <img src="imagens/User Icon.png" alt="" class="userG">
+                    <h5>Nome Completo</h5>
+                    <p>Telefone</p>
+                    <p>Bairro</p>
+                  </div>
+                </div>
+                <div class="col-md-4" id="user-block1">
+                  <div class="bloco-userG">
+                    <img src="imagens/User Icon.png" alt="" class="userG">
+                    <h5>Nome Completo</h5>
+                    <p>Telefone</p>
+                    <p>Bairro</p>
+                  </div>
+                </div>
+                <div class="col-md-4" id="user-block1">
+                  <div class="bloco-userG">
+                    <img src="imagens/User Icon.png" alt="" class="userG">
+                    <h5>Nome Completo</h5>
+                    <p>Telefone</p>
+                    <p>Bairro</p>
+                  </div>
+                </div>
+            </div>
+        </div>
+        
+        
+   </main>
+   <!--Conteúdo Principal para tela pequena-->
+   <main class="principalP">
+        <div class="principal-upP">
+            <div class="fraseP"><h1>Busque sua carona aqui no PUCar...</h1></div>
+            <div class="formularioP">
+                <input type="search" placeholder="Insira seu endereço" class="barra-pesquisaP1" style='width:50%'>
+                <button><img src="imagens/User Icon.png" alt="" class="botoesP"></button>
+                <button><img src="imagens/volante" alt="" class="botoesP"></button>
+            </div>
+        </div>
+        <div class="container">
+          <div class="row">
+              <div class="col-md-12" id="user-block2">
+                <div class="bloco-userP">
+                  <img src="imagens/User Icon.png" alt="" class="userP">
+                  <h5>Nome Completo</h5>
+                  <p>Telefone</p>
+                  <p>Bairro</p>
+                </div>
+              </div>
+              <div class="col-md-12" id="user-block2">
+                <div class="bloco-userP">
+                  <img src="imagens/User Icon.png" alt="" class="userP">
+                  <h5>Nome Completo</h5>
+                  <p>Telefone</p>
+                  <p>Bairro</p>
+                </div>
+              </div>
+              <div class="col-md-12" id="user-block2">
+                <div class="bloco-userP">
+                  <img src="imagens/User Icon.png" alt="" class="userP">
+                  <h5>Nome Completo</h5>
+                  <p>Telefone</p>
+                  <p>Bairro</p>
+                </div>
+              </div>
+   </main>
+   <!--Rodapé tela Grande-->
+   <footer class="rodapeG">
+    <div class="elementos-rodapeG">
+            <div class="logos">
+                <img src="imagens/Icone-logo-Facebook-PNG.png" alt="logo face"  class="logos-sociais">
+                <img src="imagens/instagram-png-logo-black-14.png" alt="logo instagram"  class="logos-sociais">
+                <img src="imagens/Twitter-PNG-Picture.png" alt="logo twitter" class="logos-sociais">
+            </div>
+            <div class="contatos">
+                <h6>Contato:</h6>
+                <p>pucaronasolidaria@outlook.com</p>
+                <p>(11) 9 8522-3535</p>
+                <p>© 2022 PuCar</p>
+            </div>
+    </div>
+   </footer>
+   <!--Rodapé tela pequena-->
+    <footer class="rodapeP">
+        <div class="elementos-rodapeP">
+            <div class="logosP">
+                <img src="imagens/Icone-logo-Facebook-PNG.png" alt="logo face"  class="logos-sociaisP">
+                <img src="imagens/instagram-png-logo-black-14.png" alt="logo instagram"  class="logos-sociaisP">
+                <img src="imagens/Twitter-PNG-Picture.png" alt="logo twitter" class="logos-sociaisP">
+            </div>
+            <div class="contatosP">
+                <h6>Contato:</h6>
+                <p>pucaronasolidaria@outlook.com</p>
+                <p>(11) 9 8522-3535</p>
+                <p>© 2022 PuCar</p>
+            </div>
+    </div>
+    </footer>
+        
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script>
+  </body>
+</html>
