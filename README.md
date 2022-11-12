@@ -12,9 +12,9 @@ Este projeto tem como finalidade encontrar uma solução para a coordenação de
 
 * Felipe Augusto Duque Ferreira
 * Larissa Silva Melo
+* Ricardo Moreira Siqueira Junior
 * Vanessa Lima da Silva Chaves
 * Vinicius Carneiro Gonçalves
-* Ricardo Moreira Siqueira Junior
 
 ## Orientador
 
