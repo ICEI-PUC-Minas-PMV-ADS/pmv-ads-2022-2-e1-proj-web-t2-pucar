@@ -16,6 +16,7 @@ function cadastrar() {
         telefone,
         endereco,
         tipo,
+        foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
     })
 
     localStorage.setItem('users', JSON.stringify(users))

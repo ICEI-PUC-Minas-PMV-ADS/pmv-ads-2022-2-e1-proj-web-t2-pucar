@@ -21,11 +21,6 @@ function sair() {
     location.reload()
 }
 
-function buscar() {
-    if (usuarioLogado) {
-        window.location.href = "/resultado-busca";
-    }else {
-        alert('Crie uma conta para poder pesquisar uma carona.')
-    }
-        
+function pesquisar(e) {
+    
 }

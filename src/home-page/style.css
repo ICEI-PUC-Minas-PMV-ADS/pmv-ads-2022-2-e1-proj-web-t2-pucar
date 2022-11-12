@@ -9,7 +9,9 @@ html, body {
     font-family: "Poppins", sans-serif;
     padding: 0;
 }
-
+.sobre-claro {
+    background-color: #DAE3F3 !important;
+}
 .cabecalho {
     background-color: #4472C4;
     padding: 50px;
@@ -95,9 +97,12 @@ main {
     display: flex;
     flex-direction: column;
 }
-.campo-de-busca-input-btn img{
-    width: 15px;
+.campo-de-busca-input-btn select {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-left: 0px;
 }
+
 .campo-de-busca-input-btn button{
     cursor: pointer;
     background-color: white;
@@ -107,6 +112,7 @@ main {
     align-items: center;
     padding: 4px;
 }
+
 .campo-de-busca-input-btn button:hover {background-color: #f1f1f1}
 
 .campo-de-busca-input-btn {
@@ -120,15 +126,10 @@ main {
     width: 100%;
     height: 30px;
 }
-.sobre-claro {
-    background-color: #DAE3F3 !important;
-}
-
 .sobre {
     background-color: #4472C4;
     padding-bottom: 50px;
     padding-top: 30px;
-    flex-grow: 1;
     display: flex;
     justify-content: center;
     padding-left: 20%;

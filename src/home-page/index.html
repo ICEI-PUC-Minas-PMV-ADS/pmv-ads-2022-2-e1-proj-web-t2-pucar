@@ -34,12 +34,13 @@
     <main>
         <div class="campo-de-busca">
             <h1>Busque sua carona aqui no PUCar...</h1>
-            <div class="campo-de-busca-input-btn" style="display: flex;">
-                <input type="text" placeholder="Insira seu endereço" id="buscar">
-                <button><img src="../img/icon-user.png" alt=""></button>
-                <button><img src="../img/icon-volante.png" alt=""></button>
-                <button onclick="buscar()"><img src="../img/lupa.png" alt=""></button>
-            </div>
+            <form class="campo-de-busca-input-btn" style="display: flex;" action="/resultado-busca/index.html" method="get">
+                <input name="bairro" type="text" placeholder="Insira seu bairro" id="buscar">
+                <select name="tipo" class="op">
+                    <option value="passageiro">Passageiro</option>
+                    <option value="motorista">Motorista</option>
+                </select>
+            </form>
         </div>
             <div class="sobre" id="sobre">
                 <img src="../img/sobre.png" alt="">
