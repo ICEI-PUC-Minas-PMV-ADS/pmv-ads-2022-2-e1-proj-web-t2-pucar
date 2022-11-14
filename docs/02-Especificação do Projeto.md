@@ -19,6 +19,8 @@ A partir do estudo diário da vida das personas identificadas para o projeto, fo
 |Leonardo Silveira Magalhães|Gostaria de poder pesquisar por motoristas que possam me dar carona até a universidade.|Para que eu possa encontrar caronas com praticidade.|
 |Leonardo Silveira Magalhães|Gostaria de poder abrir o site no celular ou computador.|Para que eu possa utilizar de onde eu estiver.|
 |Leonardo Silveira Magalhães|Quero um site que apresente um texto falando sobre como usá-lo.|Aprender de forma objetiva as funções do site criara mais interesse em usá-lo.|
+|Leonardo Silveira Magalhães|Quero ter informações sobre o projeto.|Para conhecer a empresa.|
+|Leonardo Silveira Magalhães|Quero ter informações financeiras sobre essa opção de transporte|Para entender as vantagens de pegar caronas.|
 ##	Requisitos do Projeto
 O projeto será dividido em requisitos funcionais e não funcionais, sendo que, os requisitos funcionais definem as interações disponíveis no projeto e os requisitos não funcionais definem as características que o projeto deverá ser apresentado. Isso será exposto e detalhado nas tabelas abaixo.
 ##	Requisitos Funcionais
@@ -32,7 +34,9 @@ A tabela a seguir apresenta os requisitos funcionais do projeto, identificando a
 |RF-05|O site deve apresentar termo de aceite para os consentimento dos usuarios.|Média|
 |RF-06|O site deve oferecer uma área logada com sistema de busca de usuários por localidade.|Alta|
 |RF-07|O site deve oferecer a funcionalidade de inativar cadastro.|Média|
-|RF-08|O site deve apresentar página com orientações de segurança.|Baixa|
+|RF-08|O site deve apresentar campo com orientações de segurança.|Baixa|
+|RF-09|O site deve apresentar informações sobre a empresa.|Baixa|
+|RF-10|O site deve apresentar informações financeiras sobre esse tipo de transporte.|Baixa|
 ##	Requisitos Não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 |ID|Descrição|Prioridade|
