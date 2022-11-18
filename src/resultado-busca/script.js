@@ -6,7 +6,7 @@ const filteredUsers = users.filter(user => user.tipo === tipo && user.endereco =
 filteredUsers.forEach(user => {
     document.querySelector('.container').innerHTML += `
         <div class="usuario">
-            <img src="/img/icon-user.png" alt="">
+            <img src="${user.foto}" alt="">
             <h1>${user.nome}</h1>
             <p>${user.telefone}</p>
             <p>${user.endereco}</p>

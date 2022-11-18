@@ -93,8 +93,11 @@ a {
 }
 #img{
     border-radius: 100%;
-    width: 150px;
     border: 1px solid #5f5f5f;
+    display: inline-block;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
 }
 .user-pic {
     display: flex;
@@ -111,9 +114,11 @@ a {
     position: absolute;
     bottom: 5px;
     right: 10px;
+    cursor: pointer;
     padding: 3px;
     border-radius: 100%;
 }
+
 input[type="file"] {
     display: none;
 }
