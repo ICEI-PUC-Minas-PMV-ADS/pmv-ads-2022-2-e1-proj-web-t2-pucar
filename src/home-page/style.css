@@ -131,9 +131,9 @@ main {
     padding-bottom: 50px;
     padding-top: 30px;
     display: flex;
-    justify-content: center;
     padding-left: 20%;
     gap: 50px;
+    text-align: justify;
     padding-right: 20%;
     align-items: center;
 }
@@ -197,6 +197,7 @@ main {
     }
     .sobre {
         font-size: 15px;
+        text-align: center;
         display: flex;
         flex-direction: column;
     }

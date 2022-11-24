@@ -21,6 +21,41 @@ function sair() {
     location.reload()
 }
 
-function pesquisar(e) {
-    
+function setUser() {
+    if (!localStorage.getItem("users")) {
+        localStorage.setItem("users", JSON.stringify([
+            {
+                foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+                nome: "nome",
+                telefone: "telefone",
+                endereco: "endereco",
+                tipo: "passageiro",
+            },
+
+            {
+                foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+                nome: "nome",
+                telefone: "telefone",
+                endereco: "endereco",
+                tipo: "passageiro",
+            },
+
+            {
+                foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+                nome: "nome",
+                telefone: "telefone",
+                endereco: "endereco",
+                tipo: "passageiro",
+            },
+            
+            {
+                foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+                nome: "nome",
+                telefone: "telefone",
+                endereco: "endereco",
+                tipo: "passageiro",
+            }
+        ]))
+    }
 }
+setUser()
