@@ -10,6 +10,8 @@ Os requisitos para realização dos testes de software são:
 
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 
+# Home Page
+
 | Caso de testes | CT – 01 – Home page – Conheça o Projeto |
 |---|---|
 | Requisitos associados | RF-01 - O site deve apresentar na página principal um direcionamento completo de como se conseguir caronas utilizando o site. | 
