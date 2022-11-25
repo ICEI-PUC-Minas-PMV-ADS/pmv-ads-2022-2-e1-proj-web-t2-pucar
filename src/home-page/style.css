@@ -8,6 +8,7 @@ html, body {
     margin: 0;
     font-family: "Poppins", sans-serif;
     padding: 0;
+    color: black;
 }
 .sobre-claro {
     background-color: #DAE3F3 !important;
@@ -18,7 +19,7 @@ html, body {
 }
 .cabecalho-dentro {
     background-color: #DAE3F3;
-    padding: 5px;
+    padding: 10px;
     width: 100%;
     display: flex;
     border-radius: 5px;
@@ -91,6 +92,7 @@ html, body {
 
 .campo-de-busca h1{
     font-size: 50px;
+    font-weight: 600;
 }
 main {
     height: 100%;
@@ -103,22 +105,11 @@ main {
     border-left: 0px;
 }
 
-.campo-de-busca-input-btn button{
-    cursor: pointer;
-    background-color: white;
-    border: 1px solid black;
-    border-left: 0px;
-    display: flex;
-    align-items: center;
-    padding: 4px;
-}
-
-.campo-de-busca-input-btn button:hover {background-color: #f1f1f1}
-
 .campo-de-busca-input-btn {
     width: 50%;
 }
 .campo-de-busca-input-btn input{
+    padding: 16px;
     padding-left: 5px;
     border: 1px solid black;
     border-top-left-radius: 5px;
@@ -133,7 +124,6 @@ main {
     display: flex;
     padding-left: 20%;
     gap: 50px;
-    text-align: justify;
     padding-right: 20%;
     align-items: center;
 }
@@ -173,24 +163,10 @@ main {
 .© {
     font-size: 0.8em;
 }
+.cabecalhoP {
+    display: none;
+}
 @media (max-width: 768px){
-    .cabecalho {
-        padding: 15px;
-    }
-    .cabecalho-dentro {
-        padding: 0;
-    }
-    .cabecalho-dentro img, .cabecalho-dentro a{
-        display: none;
-    }
-    .cabecalho-esquerda {
-        display: flex;
-        flex-direction: column;
-    }
-    .cabecalho-direita {
-        display: flex;
-        flex-direction: column;
-    }
     .campo-de-busca {
         color: black;
         text-align: center;
