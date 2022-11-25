@@ -47,42 +47,35 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 | Passos | 1-	Abrir página principal; 2-	Clicar com botão direito do mouse na página; 3-	Clicar em “inspecionar elemento” 4-	Clicar no botão de dispositivo móvel no canto superior direito. 5-	Clicar em dimensões de tela; 6-	Selecionar o dispositivo móvel “Iphone Se”. |
 | Critérios de Êxito | A tela se organizará para uma resolução menor e ficará responsiva para dispositivos móveis. |
 
-| Caso de testes | CT- 06 – Home page – Pesquisa  |
-|---|---|
-| Requisitos associados | RF-06 O site deve oferecer uma área logada com sistema de busca de usuários por localidade. |
-| Objetivo do teste | Verificar se o mecanismo de pesquisa está funcionando. |
-| Passos | 1-	Acessar o Navegador; 2-	Abrir o endereço do site; 3-	Visualizar página principal 4-	Escrever na barra de pesquisa ao centro da tela o nome de um bairro; 5-	Receber dados de motoristas ou passageiros presentes no bairro. |
-| Critérios de Êxito | O usuário recebe o contato de motoristas ou passageiros presentes no bairro digitado. |
-
-| Caso de testes | CT- 07 – Home page – Filtro de pesquisa - Passageiros  |
+| Caso de testes | CT- 06 – Home page – Filtro de pesquisa - Passageiros  |
 |---|---|
 | Requisitos associados | RF-06 O site deve oferecer uma área logada com sistema de busca de usuários por localidade. |
 | Objetivo do teste | Testar o filtro na barra de pesquisa. |
 | Passos | 1-	Abrir página principal; 2-	Escrever seu bairro no campo de pesquisa;3-	Alterar o filtro para passageiros |
 | Critérios de Êxito | A pesquisa deve mostrar apenas contas de passageiros no bairro digitado. |
 
-| Caso de testes | CT- 08 – Home page – Filtro de pesquisa - Motorista  |
+| Caso de testes | CT- 07 – Home page – Filtro de pesquisa - Motorista  |
 |---|---|
 | Requisitos associados | RF-06 O site deve oferecer uma área logada com sistema de busca de usuários por localidade. |
 | Objetivo do teste | Testar o filtro na barra de pesquisa. |
 | Passos | 1-	Abrir página principal; 2-	Escrever seu bairro no campo de pesquisa; 3-	Alterar o filtro para motoristas. |
 | Critérios de Êxito | A pesquisa deve mostrar apenas contas de motoristas no bairro digitado. |
 
-| Caso de testes | CT- 09 – Home page – Pesquisa – Teste de Campo  |
+| Caso de testes | CT- 08 – Home page – Pesquisa – Teste de Campo  |
 |---|---|
 | Requisitos associados | RF-06 O site deve oferecer uma área logada com sistema de busca de usuários por localidade. |
 | Objetivo do teste | Fazer a verificação no campo de pesquisa, a pesquisa só deve receber letras e não números. |
 | Passos | 1-	Abrir a tela principal; 2-	Escrever o nome do bairro com somente letras.|
 | Critérios de Êxito | Foi apenas escrito com letras, deve aparecer os usuários do bairro. |
 
-| Caso de testes | CT- 10 – Home page – Navegabilidade - Perfil  |
+| Caso de testes | CT- 09 – Home page – Navegabilidade - Perfil  |
 |---|---|
 | Requisitos associados | RF-02 - O site deve oferecer uma funcionalidade de cadastro de novo usuário. |
 | Objetivo do teste | Testar o botão de “perfil” após o login. |
 | Passos | 1-	Abrir a página principal; 2-	Cadastrar um usuário qualquer; 3-	Apertar o botão “perfil” no cabeçalho da página principal; |
 | Critérios de Êxito | O botão deve levar o usuário a página de perfil. |
 
-| Caso de testes | CT- 11 – Home page – Navegabilidade - Sair  |
+| Caso de testes | CT- 10 – Home page – Navegabilidade - Sair  |
 |---|---|
 | Requisitos associados | RF-02 - O site deve oferecer uma funcionalidade de cadastro de novo usuário. |
 | Objetivo do teste | Testar o botão “Sair” na página principal após o Login. |
