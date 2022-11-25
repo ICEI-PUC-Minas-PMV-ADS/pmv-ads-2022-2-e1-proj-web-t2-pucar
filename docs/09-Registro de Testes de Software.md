@@ -67,4 +67,75 @@ O usuário sairá da sua conta cadastrada.
 Após clicar em sair:
 ![image](https://user-images.githubusercontent.com/114882542/204000299-c6b4e553-492b-4487-972b-d360198df6bd.png)
 
+## Resultado de Busca
 
+## Cadastro
+
+## Login
+
+## Perfil
+
+### CT- 33 – Perfil – Atualização da foto de perfil
+
+Antes:
+
+![CT-Perfil-Atualização da foto de perfil antes](https://user-images.githubusercontent.com/106103247/204031509-36db58f8-954d-4289-841d-f90b415ec015.png)
+
+Atualizado:
+
+![CT-Perfil-Atualização da foto de perfil - Êxito](https://user-images.githubusercontent.com/106103247/204031525-066d1f57-020c-4047-98b6-1a01807b5ea3.png)
+
+Teste efetuado com sucesso!
+
+### CT- 34 – Perfil – Atualização da senha
+
+Antes:
+
+![Atualização de senha antes](https://user-images.githubusercontent.com/106103247/204031655-929ac57a-3ca3-4b16-a8cd-831bcc19a4d3.png)
+
+Atualizado:
+
+![Atualização de senha depois](https://user-images.githubusercontent.com/106103247/204031673-479fcb51-9fc5-4833-9fe8-49d0bf55d1f3.png)
+
+Teste Efetuado com sucesso!
+
+### CT- 35 – Perfil – Atualização do número telefônico
+
+Antes:
+
+![Atualização de número telefônico antes](https://user-images.githubusercontent.com/106103247/204031902-4fb842d2-a109-4a88-8cb2-a7d26d0df651.png)
+
+Atualizado:
+
+![Atualização de número telefônico depois](https://user-images.githubusercontent.com/106103247/204031915-dfaff70d-06e9-4c8d-af03-a53fd92e40ac.png)
+
+Teste efetuado com sucesso!
+
+### CT- 36 – Perfil – Atualização do endereço do usuário
+
+Antes:
+
+![Atualização de endereço antes](https://user-images.githubusercontent.com/106103247/204032050-e228fc6c-a811-4684-8921-9811e8c6b225.png)
+
+Atualizado:
+
+![Atualização de endereço depois](https://user-images.githubusercontent.com/106103247/204032056-95e432ad-ca31-466b-a243-00f131c69b62.png)
+
+Teste efetuado com sucesso!
+
+### CT- 37 – Perfil – Desativação de conta
+
+Antes:
+
+![CT-Perfil-Desativação de Conta antes](https://user-images.githubusercontent.com/106103247/204032274-044cb434-74d5-486d-975b-a71464815a8b.png)
+
+
+Ao clicar no botão de desativação:
+
+![CT-Perfil-Desativação de Conta pop up](https://user-images.githubusercontent.com/106103247/204032451-45bb1630-dc71-4b0e-92d8-a7a745d2a3ea.png)
+
+Clicando no botão de "ok" no pop up:
+
+![CT-Perfil-Desativação de Conta - Conta desativada - Êxito](https://user-images.githubusercontent.com/106103247/204032538-847fc9f6-fe3e-4b7d-9f5f-29e7526d68cc.png)
+
+Teste efetuado com sucesso!
