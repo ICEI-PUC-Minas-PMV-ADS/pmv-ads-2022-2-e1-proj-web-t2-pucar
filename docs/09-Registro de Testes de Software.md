@@ -1,7 +1,5 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
-
 Os resultados obtidos nos testes de software realizados são descritos abaixo.
 
 ## Home Page
@@ -46,4 +44,27 @@ Após clicar em fale conosco:
 Tela "Iphone SE":<br>
 ![image](https://user-images.githubusercontent.com/114882542/203958282-268b02ec-84d3-4bcc-971e-804504ef4173.png)
 
-### CT- 06 – Home page – Pesquisa
+### CT- 06 – Home page – Filtro de pesquisa - Passageiros
+
+### CT- 07 – Home page – Filtro de pesquisa - Motorista
+
+### CT- 08 – Home page – Pesquisa – Teste de Campo
+
+### CT- 09 – Home page – Navegabilidade - Perfil
+
+O botão deve levar o usuário a página de perfil.
+![image](https://user-images.githubusercontent.com/114882542/203999705-75d8f368-f9b7-454b-86b3-858c86af74e6.png)
+
+Após clicar em perfil:
+![image](https://user-images.githubusercontent.com/114882542/203999862-0551a9f9-9102-4ddd-8863-4fd39898d5dc.png)
+
+
+### CT- 10 – Home page – Navegabilidade - Sair
+
+O usuário sairá da sua conta cadastrada.
+![image](https://user-images.githubusercontent.com/114882542/204000003-75107b5c-bf36-472c-ba2e-4738086772db.png)
+
+Após clicar em sair:
+![image](https://user-images.githubusercontent.com/114882542/204000299-c6b4e553-492b-4487-972b-d360198df6bd.png)
+
+
