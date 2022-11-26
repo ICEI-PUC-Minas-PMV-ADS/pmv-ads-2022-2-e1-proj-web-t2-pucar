@@ -1,7 +1,7 @@
 const users = JSON.parse(localStorage.getItem('users'))
 
 const { tipo, bairro } = getUrlVars()
-const filteredUsers = users.filter(user => user.tipo === tipo && user.endereco === bairro)
+const filteredUsers = users.filter(user => user.tipo === tipo && user.endereco.toLowerCase() === bairro.toLowerCase())
 
 filteredUsers.forEach(user => {
     document.querySelector('.containerG').innerHTML += `
@@ -24,9 +24,20 @@ function scrollToElement(id) {
 }
 
 function getUrlVars() {
-    let vars = {};
-    window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
-        vars[key] = value;
-    });
-    return vars;
+    let qs = location.search
+    qs = qs.split('+').join(' ');
+
+    var params = {},
+        tokens,
+        re = /[?&]?([^=]+)=([^&]*)/g;
+
+    while (tokens = re.exec(qs)) {
+        params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
+    }
+    return params;
+}
+
+function sair() { 
+    localStorage.setItem('usuarioLogado', null)
+    location.href = "/home-page"
 }

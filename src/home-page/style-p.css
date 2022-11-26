@@ -8,6 +8,7 @@ html, body {
     margin: 0;
     font-family: "Poppins", sans-serif;
     padding: 0;
+    color: black;
 }
 /*As coisas que não vão aparecer*/
 .cabecalho{
@@ -25,10 +26,13 @@ html, body {
 
 }
 .navbar-toggler.collapsed {
-    background-color: #DAE3F3;
+    background-color: #4472C4;
 }
 .navbar-toggler {
     background-color: #1f3964;
+}
+.nav-item {
+    cursor: pointer;
 }
 #expansion {
     background-color: #4472C4;

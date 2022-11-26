@@ -16,6 +16,21 @@ if (usuarioLogado) {
     `
 }
 
+if (usuarioLogado) {
+    const perfil = document.getElementById('perfil')
+    perfil.innerHTML = `
+        <a class="nav-link" href="/perfil">Perfil</a>
+    `
+}
+
+if (usuarioLogado) {
+    const sair = document.getElementById('sair')
+    sair.innerHTML = `
+        <a class="nav-link" onclick='sair()'>Sair</a>
+    `
+}
+
+
 function sair() { 
     localStorage.setItem('usuarioLogado', null)
     location.reload()
@@ -26,35 +41,39 @@ function setUser() {
         localStorage.setItem("users", JSON.stringify([
             {
                 foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
-                nome: "nome",
-                telefone: "telefone",
+                nome: "Vinicius",
+                telefone: "(31) 8888-888",
+                endereco: "endereço",
+                tipo: "motorista",
+            },
+            {
+                foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+                nome: "Vanessa",
+                telefone: "(31) 8888-888",
+                endereco: "endereco",
+                tipo: "motorista",
+            },
+            {
+                foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+                nome: "Ricardo",
+                telefone: "(31) 8888-888",
                 endereco: "endereco",
                 tipo: "passageiro",
             },
-
             {
                 foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
-                nome: "nome",
-                telefone: "telefone",
+                nome: "Larissa",
+                telefone: "(31) 8888-888",
                 endereco: "endereco",
                 tipo: "passageiro",
             },
-
             {
                 foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
-                nome: "nome",
-                telefone: "telefone",
+                nome: "Felipe",
+                telefone: "(31) 8888-888",
                 endereco: "endereco",
                 tipo: "passageiro",
             },
-            
-            {
-                foto: "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
-                nome: "nome",
-                telefone: "telefone",
-                endereco: "endereco",
-                tipo: "passageiro",
-            }
         ]))
     }
 }

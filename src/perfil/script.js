@@ -1,13 +1,14 @@
+const usuarioLogado = JSON.parse(localStorage.getItem('usuarioLogado'))
+
 const nome = document.getElementById('nome')
 const email = document.getElementById('email')
 const senha = document.getElementById('senha')
 const telefone = document.getElementById('telefone')
 const matricula = document.getElementById('matricula')
 const endereco = document.getElementById('endereco')
-let imgBase64 = ''
+let imgBase64 = usuarioLogado.foto
 const foto = document.getElementById('img')
 
-const usuarioLogado = JSON.parse(localStorage.getItem('usuarioLogado'))
 
 nome.value = usuarioLogado.nome
 email.value = usuarioLogado.email
