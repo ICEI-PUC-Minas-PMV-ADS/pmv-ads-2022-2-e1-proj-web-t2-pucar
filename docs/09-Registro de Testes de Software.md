@@ -46,9 +46,18 @@ Tela "Iphone SE":<br>
 
 ### CT- 06 – Home page – Filtro de pesquisa - Passageiros
 
+A pesquisa deve mostrar apenas contas de passageiros no bairro digitado.
+![image](https://user-images.githubusercontent.com/114882542/204068576-259473bb-abc9-42b8-b5b1-2cc059858d4b.png)
+
 ### CT- 07 – Home page – Filtro de pesquisa - Motorista
 
+A pesquisa deve mostrar apenas contas de motoristas no bairro digitado.
+![image](https://user-images.githubusercontent.com/114882542/204068561-b8c408ee-eb4f-46d8-aa0c-29073b0a2a78.png)
+
 ### CT- 08 – Home page – Pesquisa – Teste de Campo
+
+Foi apenas escrito com letras, deve aparecer os usuários do bairro.
+![image](https://user-images.githubusercontent.com/114882542/204068610-beff1ffe-de9b-4257-9d72-5c189248dda0.png)
 
 ### CT- 09 – Home page – Navegabilidade - Perfil
 
