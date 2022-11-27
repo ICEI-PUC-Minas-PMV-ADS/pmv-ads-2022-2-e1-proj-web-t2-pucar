@@ -212,6 +212,49 @@ Se faltar o preenchimento de algum campo será apresentado uma mensagem indicand
 
 ## Login
 
+### CT- 26 – login - Entrar
+
+Se logando corretamente você sera automaticamente redirecionado para home-page
+
+![image](/img/tela-login-entrar.png)
+
+Após clicar
+
+![image](/img/tela-home-page-logado.png)
+
+### CT- 27 – login - Usuário inexistente ou Errado
+
+Se logando com usuário errado / inexistente irar aparecer o seguinte alert
+
+![image](/img/login-incorreto.png)
+
+### CT- 28 – login - Navegabilidade 
+
+A uma seta apresentada no canto superior esquerdo da tela
+
+![image](/img/tela-login-seta.png)
+
+ao clicar 
+
+![image](/img/tela-home-page.png)
+
+### CT- 29 – login - Navegabilidade - cadastro
+
+A uma opção de ser redirecionado diretamente para tela de cadastro
+
+![image](/img/tela-login-cadastro.png)
+
+ao clicar
+
+![image](/img/tela-cadastro.png)
+
+### CT- 30 – login - Responsividade 
+
+Tela responsiva
+
+![image](/img/responsivo-login.png)
+
+
 ## Perfil
 
 ### CT- 33 – Perfil – Atualização da foto de perfil
