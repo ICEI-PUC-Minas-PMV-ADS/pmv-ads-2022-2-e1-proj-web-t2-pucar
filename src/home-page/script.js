@@ -24,12 +24,12 @@ if (usuarioLogado) {
 }
 
 if (usuarioLogado) {
+
     const sair = document.getElementById('sair')
     sair.innerHTML = `
         <a class="nav-link" onclick='sair()'>Sair</a>
     `
 }
-
 
 function sair() { 
     localStorage.setItem('usuarioLogado', null)
