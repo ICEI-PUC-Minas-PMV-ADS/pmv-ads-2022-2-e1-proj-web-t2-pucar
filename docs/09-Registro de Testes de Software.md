@@ -42,7 +42,7 @@ Após clicar em fale conosco:
 ### CT- 05 – Home page - Responsividade
 
 Tela "Iphone SE":<br>
-![Tela iphone SE](https://user-images.githubusercontent.com/106103247/204154366-29ec3c15-ed53-46c7-8d8d-be8104b9ed66.png)
+![image](https://user-images.githubusercontent.com/114882542/203958282-268b02ec-84d3-4bcc-971e-804504ef4173.png)
 
 ### CT- 06 – Home page – Filtro de pesquisa - Passageiros
 
@@ -80,54 +80,50 @@ Após clicar em sair:
 
 ### CT-11 - Resultado de Busca - Conheça o projeto 
 
-A página vai se redirecionar para Home-Page, apresentando como utilizar a pesquisa de caronas.
-![image](https://user-images.githubusercontent.com/114196258/204152032-b04dd9ec-858a-4862-9be3-7b0779e61149.png)
+Após clicar no menu "Conheça o Projeto" - "Como utilizar" a página será redirecionar para Home-Page, apresentando como utilizar a pesquisa de caronas.
+![CT11 1](https://user-images.githubusercontent.com/114196258/204157686-cb782fbc-f833-4e06-8faf-9ab9827ee3c3.png)
 
-Após clicar em sair:
+Após clicar em "Como utilizar":
 ![image](https://user-images.githubusercontent.com/114196258/204146227-c8088e4c-ccaf-409a-9288-c9690e80daef.png)
 
 ### CT- 12 – Resultado de busca – Navegabilidade - Perfil
 
-A página de perfil é aberta.
-![CT12 1](https://user-images.githubusercontent.com/114196258/204152369-cc41dfcc-eb85-4b8e-bd06-2d3fa168b094.png)
+Clicando no botão "Perfil" o usuário será direcionado para a página.
+![CT12 1](https://user-images.githubusercontent.com/114196258/204157386-a559583c-29f3-439e-9361-173d6d68a2a2.png)
 
-Após clicar em atualizar.
+Após clicar em "Perfil".
 ![image](https://user-images.githubusercontent.com/114196258/204149462-5cde709c-364d-4884-ac01-7bf12887ab32.png)
 
 ### CT- 13 – CT-04 – Resultado de busca – Navegabilidade - Sair
 
-A página de Home-Page é aberta fora da conta.
-![CT13 1](https://user-images.githubusercontent.com/114196258/204152638-04e41ecc-380e-45b3-9149-608e4cd02dc3.png)
+Clicando no botão "Sair", o usuário será direcionado para a "Home Page" e sairá da sua conta cadastrada.
+![CT13 1](https://user-images.githubusercontent.com/114196258/204158918-9ffc9f0e-e457-4947-93f4-088f3011c17e.png)
 
-Após clicar em "Sair"
-![CT13 2](https://user-images.githubusercontent.com/114196258/204152650-c02f0765-71c5-4d68-a5a9-b0716b283124.png)
+Após clicar em "Sair".
+![image](https://user-images.githubusercontent.com/114196258/204154285-9c6db8d0-55b3-4b15-ae3e-5ca2b592d553.png)
 
 ### CT- 14 – Resultado de busca - Navegabilidade - Fale Conosco
 
-A página vai se mover para baixo até seu final, mostrando os contatos dos desenvolvedores.
-![CT14 1](https://user-images.githubusercontent.com/114196258/204152879-7707ba48-0cf8-45eb-9497-4e04d0bbad82.png)
+Clicando no botão "Fale Conosco" o usuário será direcionado para o fim dá pagina que exibirá os contatos dos desenvolvedores.
+![CT14 1](https://user-images.githubusercontent.com/114196258/204157043-1651f5a5-e090-4f65-992a-fe5104529a87.png)
 
 Após clicar em "Fale Conosco"
-![CT14 2](https://user-images.githubusercontent.com/114196258/204152891-d7b4f2c0-fa78-4ca3-bd68-cf21d1c12ee9.png)
+![CT14 2](https://user-images.githubusercontent.com/114196258/204157269-16258541-0b82-4d27-8e29-72c835e37b6a.png)
 
 ### CT- 15 – Resultado de busca - Responsividade
 
-A tela se organizará para uma resolução menor e ficará responsiva para dispositivos móveis.
-![image](https://user-images.githubusercontent.com/114196258/204150039-a73edc24-d969-4308-8cde-64de2e9fdae9.png)
-
-Após clicar em inspecionar e selecionar dispositivo móvel.
-
+Ao utilizar a aplicação em dispositivos móveis, a página se adaptará para exibir as informações de forma responsiva.
 ![image](https://user-images.githubusercontent.com/114196258/204153050-d9557cc7-6fa3-4c8c-a7d1-86b913cd0b8c.png)
 
 ### CT- 16 – Resultado de busca – Pesquisa
 
-O usuário recebe o contato de motoristas ou passageiros presentes no bairro digitado.
-![image](https://user-images.githubusercontent.com/114196258/204153262-0de141fe-9c97-4872-b810-d53d6ea6b8a2.png)
+Clicando na barra de busca, ao digitar o bairro e selecionar "motorista" ou "passageiro" usuário recebe o contato de motoristas ou passageiros presentes no bairro digitado.
+![CT16 1](https://user-images.githubusercontent.com/114196258/204158071-c0ce861f-2f1f-4e7a-a1a0-61af8d7456ff.png)
 
-Após clicar em busca de motorista.
+Após clicar na barra de busca, digitar o bairro, selecionar "Motorista" e "enter".
 ![image](https://user-images.githubusercontent.com/114196258/204150520-b861fa4a-ae67-4858-8fb1-b4658663bd8f.png)
 
-Após clicar em busca de passageiro.
+Após clicar na barra de busca, digitar o bairro, selecionar "Passageiro" e "enter".
 ![image](https://user-images.githubusercontent.com/114196258/204150632-4b670766-df68-4726-bb70-3f452187fa49.png)
 
 ### CT- 17 – Resultado de busca – Pesquisa – Teste de Campo
@@ -135,13 +131,18 @@ Após clicar em busca de passageiro.
 O campo de busca só aceita texto, quando digitado número não busca a informação.
 ![image](https://user-images.githubusercontent.com/114196258/204151085-a41c0799-2f77-47a7-b58c-e881f99dea18.png)
 
-Após digitar texto no campo de busca na opção motorista.
+Após digitar texto no campo de busca na opção "Motorista".
 ![image](https://user-images.githubusercontent.com/114196258/204151148-d769c90d-a16f-4fe9-9454-641bac7bcf98.png)
 
-Após digitar texto no campo de busca na opção passageiro.
+Após digitar texto no campo de busca na opção "Passageiro".
 ![image](https://user-images.githubusercontent.com/114196258/204151223-ec2e8880-ec1a-4597-afb5-d94c3fbd192c.png)
 
 ## Cadastro
+
+### CT- 18 – Cadastro
+
+Deve ser apresentado um alerta informando que o campo "nome" não aceita números e caracteres especiais.
+
 
 ## Login
 
