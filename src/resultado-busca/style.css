@@ -97,6 +97,7 @@ html, body {
 main {
     height: 100%;
     display: flex;
+    background-color: #4472C4;
     flex-direction: column;
 }
 .campo-de-busca-input-btn select {
@@ -156,10 +157,10 @@ main {
     display: flex;
     justify-content: center;
     padding-left: 20%;
+    padding-right: 20%;
     gap: 10px;
     flex-direction: column;
     align-items: center;
-    padding-right: 20%;
 }
 
 .rodape .contatos {
