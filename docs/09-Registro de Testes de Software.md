@@ -139,9 +139,70 @@ Após digitar texto no campo de busca na opção "Passageiro".
 
 ## Cadastro
 
-### CT- 18 – Cadastro
+### CT- 18 – Cadastro - Campo Nome
 
-Deve ser apresentado um alerta informando que o campo "nome" não aceita números e caracteres especiais.
+Deve ser apresentado um alerta informando que o campo "Nome" não aceita números e caracteres especiais.
+![image](https://user-images.githubusercontent.com/114196258/204160470-cb7be339-d318-4720-8829-ca59339af14c.png)
+
+Após digitar número no campo "Nome".
+![image](https://user-images.githubusercontent.com/114196258/204160616-ae0bad20-1a37-4f47-b021-d35880680e91.png)
+
+### CT- 19 – Cadastro - Campo E-mail
+
+Ao digitar um e-mail diferente do puc-mail, deve ser apresentado um alerta informando que somente e-mails da universidade PUC serão aceitos
+![image](https://user-images.githubusercontent.com/114196258/204160746-c2d35260-d18c-4aaf-8e77-233fa5fd887c.png)
+
+Após digitar um e-mail diferente do puc-mail
+![image](https://user-images.githubusercontent.com/114196258/204160955-9bade247-47ab-44af-b7f5-1063291b2b96.png)
+
+### CT- 20 – Cadastro - Campo Senha
+
+Ao digitar a senha, se tiver menos de 8 caracteres, deve ser apresentado um alerta informando que a senha deve ter ao menos 8 caracteres.
+![image](https://user-images.githubusercontent.com/114196258/204161126-f84c44b3-7b3b-4db5-86c4-5c9030593ac4.png)
+
+Ao digitar a senha com menos de 8 caracteres.
+![image](https://user-images.githubusercontent.com/114196258/204161183-e6b851d5-fc27-41af-b4d1-85d2a218c2d1.png)
+
+### CT- 21 – Cadastro - Confirmar senha
+
+Ao digitar senhas diferentes, deve ser apresentado um alerta informando que as senhas não coincidem
+![image](https://user-images.githubusercontent.com/114196258/204161687-bc06ec17-0de7-4d1a-a037-84de42d74ffd.png)
+
+Ao digitar as senhas diferentes.
+![image](https://user-images.githubusercontent.com/114196258/204161632-761f8ea2-3ebe-492c-bc98-e2a17f13c94c.png)
+
+### CT- 22 – Cadastro - Matrícula
+
+Ao digitar letras e caracteres especiais, deve ser apresentado um alerta informando que a matrícula deve conter apenas números.
+![image](https://user-images.githubusercontent.com/114196258/204161779-21c38359-68ea-444a-b681-81116263e71b.png)
+
+Ao digitar letras e caracteres especiais.
+![image](https://user-images.githubusercontent.com/114196258/204161880-12316bc0-3a70-4ee6-8aaf-0b76d0a57347.png)
+
+### CT- 23 – Cadastro - Campo de Telefone
+
+Ao digitar letras e caracteres especiais, deve ser apresentado um alerta informando que o telefone deve conter apenas números.
+![image](https://user-images.githubusercontent.com/114196258/204162280-0a9a4004-4696-4195-9c70-8c362dd71a9f.png)
+
+Ao digitar letras e caracteres especiais.
+![image](https://user-images.githubusercontent.com/114196258/204162330-25d8139f-69fa-47f3-8650-a188188b1d6f.png)
+
+### CT- 24 – Cadastro - Bairro
+
+Ao digitar letras e carcteres especiais, deve ser apresentado um alerta informando que o bairro deve conter apenas letras.
+![image](https://user-images.githubusercontent.com/114196258/204162498-9a09ac7e-8a48-4f1a-afd0-8e5c6cfd2e6a.png)
+
+Ao digitar letras e caracteres especiais.
+![image](https://user-images.githubusercontent.com/114196258/204162632-cc1c20c2-e92d-4286-8f9b-8c5172973aab.png)
+
+### CT- 25 – Cadastro - Campos Vazios
+
+Ao preencher todos os campos, o usuário será direcionado para a tela de "Login"
+![image](https://user-images.githubusercontent.com/114196258/204162768-2b04646f-ba68-4177-8fcf-41f444a17165.png)
+
+Se faltar o preenchimento de algum campo será apresentado uma mensagem indicando qual campo falta ser preenchido.
+![image](https://user-images.githubusercontent.com/114196258/204163143-1f32e02b-9b44-4d39-ad6e-204fb387f609.png)
+
 
 
 ## Login
