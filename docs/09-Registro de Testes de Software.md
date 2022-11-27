@@ -254,6 +254,26 @@ Tela responsiva
 
 ![image](img/responsivo-login.png)
 
+CT- 31 – E-mail – Teste de Campos de Formulários
+
+Na tela login você deve preencher o email PUC cadastrado anteriormente
+
+![image](img/login-usuario-logado.png)
+
+ao entrar
+
+![image](img/tela-home-page-logado.png)
+
+CT- 32 – Senha - Teste de Campo de Formulário
+
+Na tela login você deve preencher a senha cadastrada anteriormente com 8 caracteres 
+
+![image](img/login-usuario-logado.png)
+
+ao entrar
+
+![image](img/tela-home-page-logado.png)
+
 
 ## Perfil
 
