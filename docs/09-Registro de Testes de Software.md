@@ -78,6 +78,77 @@ Após clicar em sair:
 
 ## Resultado de Busca
 
+### CT-11 - Resultado de Busca - Conheça o projeto 
+
+A página vai se redirecionar para Home-Page, apresentando como utilizar a pesquisa de caronas.
+![image](https://user-images.githubusercontent.com/114196258/204144507-dd11c115-5a0e-4d13-9a1e-4edc79b5bbc1.png)
+
+Após clicar em sair:
+![image](https://user-images.githubusercontent.com/114196258/204146227-c8088e4c-ccaf-409a-9288-c9690e80daef.png)
+
+### CT- 12 – Resultado de busca – Navegabilidade - Perfil
+
+A página de perfil é aberta.
+![image](https://user-images.githubusercontent.com/114196258/204149419-694688b8-d6e5-435d-b960-a6df82c61601.png)
+
+Após clicar em atualizar.
+![image](https://user-images.githubusercontent.com/114196258/204149462-5cde709c-364d-4884-ac01-7bf12887ab32.png)
+
+### CT- 13 – CT-04 – Resultado de busca – Navegabilidade - Sair
+
+A página de Home-Page é aberta fora da conta.
+![image](https://user-images.githubusercontent.com/114196258/204149538-ae3e738c-1ee0-49fd-9c78-bbb886e99f1b.png)
+
+Após clicar em "Sair"
+![image](https://user-images.githubusercontent.com/114196258/204149557-7e2f0caa-6515-4167-9c3b-738d8b4712ca.png)
+
+### CT- 14 – Resultado de busca - Navegabilidade - Fale Conosco
+
+A página vai se mover para baixo até seu final, mostrando os contatos dos desenvolvedores.
+![image](https://user-images.githubusercontent.com/114196258/204149660-8cc45032-55bf-4a1f-8e10-0c6e394769b2.png)
+
+Após clicar em "Fale Conosco"
+![image](https://user-images.githubusercontent.com/114196258/204149605-9b692fa7-63e0-4a17-92de-4fbb9dffbb15.png)
+
+### CT- 15 – Resultado de busca - Responsividade
+
+A tela se organizará para uma resolução menor e ficará responsiva para dispositivos móveis.
+![image](https://user-images.githubusercontent.com/114196258/204150039-a73edc24-d969-4308-8cde-64de2e9fdae9.png)
+
+Após clicar em inspecionar e selecionar dispositivo móvel
+![image](https://user-images.githubusercontent.com/114196258/204149962-0a7649cd-dd3b-44bd-ae8c-354d0a620c2d.png)
+
+### CT- 16 – Resultado de busca – Pesquisa
+
+O usuário recebe o contato de motoristas ou passageiros presentes no bairro digitado.
+![image](https://user-images.githubusercontent.com/114196258/204150275-db7d6de3-e52f-4a37-b6f3-3a37a4b00355.png)
+
+Após clicar em busca de motorista.
+![image](https://user-images.githubusercontent.com/114196258/204150520-b861fa4a-ae67-4858-8fb1-b4658663bd8f.png)
+
+Após clicar em busca de passageiro.
+![image](https://user-images.githubusercontent.com/114196258/204150632-4b670766-df68-4726-bb70-3f452187fa49.png)
+
+### CT- 17 – Resultado de busca – Pesquisa – Teste de Campo
+
+O campo de busca só aceita texto, quando digitado número não busca a informação.
+![image](https://user-images.githubusercontent.com/114196258/204151085-a41c0799-2f77-47a7-b58c-e881f99dea18.png)
+
+Após digitar texto no campo de busca na opção motorista.
+![image](https://user-images.githubusercontent.com/114196258/204151148-d769c90d-a16f-4fe9-9454-641bac7bcf98.png)
+
+Após digitar texto no campo de busca na opção passageiro.
+![image](https://user-images.githubusercontent.com/114196258/204151223-ec2e8880-ec1a-4597-afb5-d94c3fbd192c.png)
+
+
+
+
+
+
+
+
+
+
 ## Cadastro
 
 ## Login
