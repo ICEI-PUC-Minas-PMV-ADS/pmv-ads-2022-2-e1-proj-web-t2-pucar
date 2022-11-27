@@ -273,7 +273,7 @@ Ao clicar no botão de desativação:
 
 ![CT-Perfil-Desativação de Conta pop up](https://user-images.githubusercontent.com/106103247/204032451-45bb1630-dc71-4b0e-92d8-a7a745d2a3ea.png)
 
-Clicando no botão de "ok" no pop up:
+Clicando no botão de "ok" no pop up (você sera redirecionado para home-page):
 
 ![CT-Perfil-Desativação de Conta - Conta desativada - Êxito](https://user-images.githubusercontent.com/106103247/204032538-847fc9f6-fe3e-4b7d-9f5f-29e7526d68cc.png)
 
