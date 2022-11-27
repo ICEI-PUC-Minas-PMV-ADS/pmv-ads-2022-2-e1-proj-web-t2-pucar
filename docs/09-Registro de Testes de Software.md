@@ -41,12 +41,8 @@ Após clicar em fale conosco:
 
 ### CT- 05 – Home page - Responsividade
 
-Tela responsiva(login/cadastro):
-
+Tela "Iphone SE":<br>
 ![image](img/responsivo-home-page.png)
-
-Tela responsiva(perfil/sair):
-
 ![image](https://user-images.githubusercontent.com/114196258/204153050-d9557cc7-6fa3-4c8c-a7d1-86b913cd0b8c.png)
 
 ### CT- 06 – Home page – Filtro de pesquisa - Passageiros
@@ -208,72 +204,56 @@ Ao preencher todos os campos, o usuário será direcionado para a tela de "Login
 Se faltar o preenchimento de algum campo será apresentado uma mensagem indicando qual campo falta ser preenchido.
 ![image](https://user-images.githubusercontent.com/114196258/204163143-1f32e02b-9b44-4d39-ad6e-204fb387f609.png)
 
-
-
 ## Login
 
-### CT- 26 – login - Entrar
+### CT- 26 – Área Logada – Navegabilidade – Login
 
-Se logando corretamente você sera automaticamente redirecionado para home-page
+Clicando no botão "Login" na página "Home Page" o usuário será direcionado para a página de "Login"
+![CT26 1](https://user-images.githubusercontent.com/114196258/204164704-0e50a2df-a1dd-4c38-a14f-36053c4b70b2.png)
 
-![image](img/tela-login-entrar.png)
+Após clicar no botão "Login"
+![CT26 2](https://user-images.githubusercontent.com/114196258/204164718-80ef9e4c-0d70-4dc7-967e-79242feed9aa.png)
 
-Após clicar
+### CT 27 - Área Logada - Navegabilidade - Botão "Entrar"
 
-![image](img/tela-home-page-logado.png)
+Clicar no botão "Entrar" ao digitar o puc-mail e senha, o usuário será direcionado para a páginal de "Home Page" área logada.
+![CT27 1](https://user-images.githubusercontent.com/114196258/204165053-4719ce23-7962-4161-b41d-4f5297ce0393.png)
 
-### CT- 27 – login - Usuário inexistente ou Errado
+Ao digitar usuário e senha e clicar no botão "Entrar"
+![CT27 2](https://user-images.githubusercontent.com/114196258/204165100-e660fb86-2d05-4128-9b8a-7438cbc657ff.png)
 
-Se logando com usuário errado / inexistente irar aparecer o seguinte alert
+### CT- 28 – Área Logada - Navegabilidade – Link “Cadastre-se”
 
-![image](img/login-incorreto.png)
+Caso não tenha se cadastrado na aplicação, clicar no link "Cadastre-se"
+![CT28 1](https://user-images.githubusercontent.com/114196258/204165321-9f2eb3c0-3886-44a4-8dde-0c7883e97d66.png)
 
-### CT- 28 – login - Navegabilidade 
+Após clicar em "Cadastre-se", o usuário será direcionado para a página de "Cadastro".
+![image](https://user-images.githubusercontent.com/114196258/204165288-8810373d-9fb2-4a9d-a915-c409b7d94dde.png)
 
-A uma seta apresentada no canto superior esquerdo da tela
+### CT- 29 – Área Logada - Navegabilidade – Botão Voltar
 
-![image](img/tela-login-seta.png)
+Ao clicar no botão "Voltar" representado pela seta, o usuário será direcionado a "Home Page"
+![CT29 1](https://user-images.githubusercontent.com/114196258/204165513-abbe898d-4c98-464b-a577-a16283fbdd4f.png)
 
-ao clicar 
+Após clicar no botão "Voltar"
+![CT29 2](https://user-images.githubusercontent.com/114196258/204165527-894c7113-e33d-4aa9-ba03-547ef637f47b.png)
 
-![image](img/tela-home-page.png)
+### CT- 30 – “Login” – Responsividade
 
-### CT- 29 – login - Navegabilidade - cadastro
+Ao utilizar a aplicação em dispositivos móveis, a página se adaptará para exibir as informações de forma responsiva.
+![image](https://user-images.githubusercontent.com/114196258/204165594-e93a73f9-b3fa-488c-beee-c94ab7ed177c.png)
 
-A uma opção de ser redirecionado diretamente para tela de cadastro
+### CT- 31 – E-mail – Teste de Campos de Formulários
 
-![image](img/tela-login-cadastro.png)
+Digitar e-mail cadastrado.
+![image](https://user-images.githubusercontent.com/114196258/204165812-042e6f8b-db56-452e-8573-5c682af150bb.png)
 
-ao clicar
+### CT-32 - Senha - Teste de Campo de Formulários
+Digitar senha deve conter no mínimo 8 caracteres.
+![image](https://user-images.githubusercontent.com/114196258/204165960-e9b6aed5-c0b9-4b0e-83fb-eb8eccf804c3.png)
 
-![image](img/tela-cadastro.png)
-
-### CT- 30 – login - Responsividade 
-
-Tela responsiva
-
-![image](img/responsivo-login.png)
-
-CT- 31 – E-mail – Teste de Campos de Formulários
-
-Na tela login você deve preencher o email PUC cadastrado anteriormente
-
-![image](img/login-usuario-logado.png)
-
-ao entrar
-
-![image](img/tela-home-page-logado.png)
-
-CT- 32 – Senha - Teste de Campo de Formulário
-
-Na tela login você deve preencher a senha cadastrada anteriormente com 8 caracteres 
-
-![image](img/login-usuario-logado.png)
-
-ao entrar
-
-![image](img/tela-home-page-logado.png)
-
+Após digitar o e-mail e senha, clicar no botão "Entrar" o usuário será direcionado para a páginal de "Home Page" área logada.
+![image](https://user-images.githubusercontent.com/114196258/204166049-f7ced6be-e414-4f00-ba9c-6327b1dbe8c5.png)
 
 ## Perfil
 
@@ -336,7 +316,7 @@ Ao clicar no botão de desativação:
 
 ![CT-Perfil-Desativação de Conta pop up](https://user-images.githubusercontent.com/106103247/204032451-45bb1630-dc71-4b0e-92d8-a7a745d2a3ea.png)
 
-Clicando no botão de "ok" no pop up (você sera redirecionado para home-page):
+Clicando no botão de "ok" no pop up:
 
 ![CT-Perfil-Desativação de Conta - Conta desativada - Êxito](https://user-images.githubusercontent.com/106103247/204032538-847fc9f6-fe3e-4b7d-9f5f-29e7526d68cc.png)
 
