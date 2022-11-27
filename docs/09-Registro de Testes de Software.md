@@ -42,7 +42,7 @@ Após clicar em fale conosco:
 ### CT- 05 – Home page - Responsividade
 
 Tela "Iphone SE":<br>
-![image](https://user-images.githubusercontent.com/114882542/203958282-268b02ec-84d3-4bcc-971e-804504ef4173.png)
+![Tela iphone SE](https://user-images.githubusercontent.com/106103247/204154366-29ec3c15-ed53-46c7-8d8d-be8104b9ed66.png)
 
 ### CT- 06 – Home page – Filtro de pesquisa - Passageiros
 
