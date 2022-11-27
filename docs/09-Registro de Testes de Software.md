@@ -41,9 +41,9 @@ Após clicar em fale conosco:
 
 ### CT- 05 – Home page - Responsividade
 
-Tela responsiva(login/cadastro):<br>
+Tela responsiva(login/cadastro):
 ![image](img/responsivo-home-page.png)
-Tela responsiva(perfil/sair):<br>
+Tela responsiva(perfil/sair):
 ![image](https://user-images.githubusercontent.com/114196258/204153050-d9557cc7-6fa3-4c8c-a7d1-86b913cd0b8c.png)
 
 ### CT- 06 – Home page – Filtro de pesquisa - Passageiros
