@@ -239,7 +239,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir:
 |---|---|
 | Requisitos associados |RF-06 O site deve oferecer uma área logada com sistema de busca de usuários por localidade. |
 | Objetivo do teste | Objetivo do teste	Verificar o campo de e-mail, que deve ser da PUC Minas. |
-| Passos | 1-	Abrir página de “Login”; 2-	Digitar a senha conforme cadastrado; 3-	Clicar no botão “Acessar”. |
+| Passos | 1-	Abrir página de “Senha”; 2-	Digitar a senha conforme cadastrado; 3-	Clicar no botão “Acessar”. |
 | Critérios de Êxito | O usuário será direcionado para a página de perfil . |
 
 # Tela - Perfil
