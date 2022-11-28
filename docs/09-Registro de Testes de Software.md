@@ -42,7 +42,8 @@ Após clicar em fale conosco:
 ### CT- 05 – Home page - Responsividade
 
 Tela "Iphone SE":<br>
-![Tela iphone SE](https://user-images.githubusercontent.com/106103247/204154366-29ec3c15-ed53-46c7-8d8d-be8104b9ed66.png)
+![image](img/responsivo-home-page.png)
+![image](https://user-images.githubusercontent.com/114196258/204153050-d9557cc7-6fa3-4c8c-a7d1-86b913cd0b8c.png)
 
 ### CT- 06 – Home page – Filtro de pesquisa - Passageiros
 
@@ -80,54 +81,50 @@ Após clicar em sair:
 
 ### CT-11 - Resultado de Busca - Conheça o projeto 
 
-A página vai se redirecionar para Home-Page, apresentando como utilizar a pesquisa de caronas.
-![image](https://user-images.githubusercontent.com/114196258/204152032-b04dd9ec-858a-4862-9be3-7b0779e61149.png)
+Após clicar no menu "Conheça o Projeto" - "Como utilizar" a página será redirecionar para Home-Page, apresentando como utilizar a pesquisa de caronas.
+![CT11 1](https://user-images.githubusercontent.com/114196258/204157686-cb782fbc-f833-4e06-8faf-9ab9827ee3c3.png)
 
-Após clicar em sair:
+Após clicar em "Como utilizar":
 ![image](https://user-images.githubusercontent.com/114196258/204146227-c8088e4c-ccaf-409a-9288-c9690e80daef.png)
 
 ### CT- 12 – Resultado de busca – Navegabilidade - Perfil
 
-A página de perfil é aberta.
-![CT12 1](https://user-images.githubusercontent.com/114196258/204152369-cc41dfcc-eb85-4b8e-bd06-2d3fa168b094.png)
+Clicando no botão "Perfil" o usuário será direcionado para a página.
+![CT12 1](https://user-images.githubusercontent.com/114196258/204157386-a559583c-29f3-439e-9361-173d6d68a2a2.png)
 
-Após clicar em atualizar.
+Após clicar em "Perfil".
 ![image](https://user-images.githubusercontent.com/114196258/204149462-5cde709c-364d-4884-ac01-7bf12887ab32.png)
 
 ### CT- 13 – CT-04 – Resultado de busca – Navegabilidade - Sair
 
-A página de Home-Page é aberta fora da conta.
-![CT13 1](https://user-images.githubusercontent.com/114196258/204152638-04e41ecc-380e-45b3-9149-608e4cd02dc3.png)
+Clicando no botão "Sair", o usuário será direcionado para a "Home Page" e sairá da sua conta cadastrada.
+![CT13 1](https://user-images.githubusercontent.com/114196258/204158918-9ffc9f0e-e457-4947-93f4-088f3011c17e.png)
 
-Após clicar em "Sair"
-![CT13 2](https://user-images.githubusercontent.com/114196258/204152650-c02f0765-71c5-4d68-a5a9-b0716b283124.png)
+Após clicar em "Sair".
+![image](https://user-images.githubusercontent.com/114196258/204154285-9c6db8d0-55b3-4b15-ae3e-5ca2b592d553.png)
 
 ### CT- 14 – Resultado de busca - Navegabilidade - Fale Conosco
 
-A página vai se mover para baixo até seu final, mostrando os contatos dos desenvolvedores.
-![CT14 1](https://user-images.githubusercontent.com/114196258/204152879-7707ba48-0cf8-45eb-9497-4e04d0bbad82.png)
+Clicando no botão "Fale Conosco" o usuário será direcionado para o fim dá pagina que exibirá os contatos dos desenvolvedores.
+![CT14 1](https://user-images.githubusercontent.com/114196258/204157043-1651f5a5-e090-4f65-992a-fe5104529a87.png)
 
 Após clicar em "Fale Conosco"
-![CT14 2](https://user-images.githubusercontent.com/114196258/204152891-d7b4f2c0-fa78-4ca3-bd68-cf21d1c12ee9.png)
+![CT14 2](https://user-images.githubusercontent.com/114196258/204157269-16258541-0b82-4d27-8e29-72c835e37b6a.png)
 
 ### CT- 15 – Resultado de busca - Responsividade
 
-A tela se organizará para uma resolução menor e ficará responsiva para dispositivos móveis.
-![image](https://user-images.githubusercontent.com/114196258/204150039-a73edc24-d969-4308-8cde-64de2e9fdae9.png)
-
-Após clicar em inspecionar e selecionar dispositivo móvel.
-
+Ao utilizar a aplicação em dispositivos móveis, a página se adaptará para exibir as informações de forma responsiva.
 ![image](https://user-images.githubusercontent.com/114196258/204153050-d9557cc7-6fa3-4c8c-a7d1-86b913cd0b8c.png)
 
 ### CT- 16 – Resultado de busca – Pesquisa
 
-O usuário recebe o contato de motoristas ou passageiros presentes no bairro digitado.
-![image](https://user-images.githubusercontent.com/114196258/204153262-0de141fe-9c97-4872-b810-d53d6ea6b8a2.png)
+Clicando na barra de busca, ao digitar o bairro e selecionar "motorista" ou "passageiro" usuário recebe o contato de motoristas ou passageiros presentes no bairro digitado.
+![CT16 1](https://user-images.githubusercontent.com/114196258/204158071-c0ce861f-2f1f-4e7a-a1a0-61af8d7456ff.png)
 
-Após clicar em busca de motorista.
+Após clicar na barra de busca, digitar o bairro, selecionar "Motorista" e "enter".
 ![image](https://user-images.githubusercontent.com/114196258/204150520-b861fa4a-ae67-4858-8fb1-b4658663bd8f.png)
 
-Após clicar em busca de passageiro.
+Após clicar na barra de busca, digitar o bairro, selecionar "Passageiro" e "enter".
 ![image](https://user-images.githubusercontent.com/114196258/204150632-4b670766-df68-4726-bb70-3f452187fa49.png)
 
 ### CT- 17 – Resultado de busca – Pesquisa – Teste de Campo
@@ -135,15 +132,128 @@ Após clicar em busca de passageiro.
 O campo de busca só aceita texto, quando digitado número não busca a informação.
 ![image](https://user-images.githubusercontent.com/114196258/204151085-a41c0799-2f77-47a7-b58c-e881f99dea18.png)
 
-Após digitar texto no campo de busca na opção motorista.
+Após digitar texto no campo de busca na opção "Motorista".
 ![image](https://user-images.githubusercontent.com/114196258/204151148-d769c90d-a16f-4fe9-9454-641bac7bcf98.png)
 
-Após digitar texto no campo de busca na opção passageiro.
+Após digitar texto no campo de busca na opção "Passageiro".
 ![image](https://user-images.githubusercontent.com/114196258/204151223-ec2e8880-ec1a-4597-afb5-d94c3fbd192c.png)
 
 ## Cadastro
 
+### CT- 18 – Cadastro - Campo Nome
+
+Deve ser apresentado um alerta informando que o campo "Nome" não aceita números e caracteres especiais.
+![image](https://user-images.githubusercontent.com/114196258/204160470-cb7be339-d318-4720-8829-ca59339af14c.png)
+
+Após digitar número no campo "Nome".
+![image](https://user-images.githubusercontent.com/114196258/204160616-ae0bad20-1a37-4f47-b021-d35880680e91.png)
+
+### CT- 19 – Cadastro - Campo E-mail
+
+Ao digitar um e-mail diferente do puc-mail, deve ser apresentado um alerta informando que somente e-mails da universidade PUC serão aceitos
+![image](https://user-images.githubusercontent.com/114196258/204160746-c2d35260-d18c-4aaf-8e77-233fa5fd887c.png)
+
+Após digitar um e-mail diferente do puc-mail
+![image](https://user-images.githubusercontent.com/114196258/204160955-9bade247-47ab-44af-b7f5-1063291b2b96.png)
+
+### CT- 20 – Cadastro - Campo Senha
+
+Ao digitar a senha, se tiver menos de 8 caracteres, deve ser apresentado um alerta informando que a senha deve ter ao menos 8 caracteres.
+![image](https://user-images.githubusercontent.com/114196258/204161126-f84c44b3-7b3b-4db5-86c4-5c9030593ac4.png)
+
+Ao digitar a senha com menos de 8 caracteres.
+![image](https://user-images.githubusercontent.com/114196258/204161183-e6b851d5-fc27-41af-b4d1-85d2a218c2d1.png)
+
+### CT- 21 – Cadastro - Confirmar senha
+
+Ao digitar senhas diferentes, deve ser apresentado um alerta informando que as senhas não coincidem
+![image](https://user-images.githubusercontent.com/114196258/204161687-bc06ec17-0de7-4d1a-a037-84de42d74ffd.png)
+
+Ao digitar as senhas diferentes.
+![image](https://user-images.githubusercontent.com/114196258/204161632-761f8ea2-3ebe-492c-bc98-e2a17f13c94c.png)
+
+### CT- 22 – Cadastro - Matrícula
+
+Ao digitar letras e caracteres especiais, deve ser apresentado um alerta informando que a matrícula deve conter apenas números.
+![image](https://user-images.githubusercontent.com/114196258/204161779-21c38359-68ea-444a-b681-81116263e71b.png)
+
+Ao digitar letras e caracteres especiais.
+![image](https://user-images.githubusercontent.com/114196258/204161880-12316bc0-3a70-4ee6-8aaf-0b76d0a57347.png)
+
+### CT- 23 – Cadastro - Campo de Telefone
+
+Ao digitar letras e caracteres especiais, deve ser apresentado um alerta informando que o telefone deve conter apenas números.
+![image](https://user-images.githubusercontent.com/114196258/204162280-0a9a4004-4696-4195-9c70-8c362dd71a9f.png)
+
+Ao digitar letras e caracteres especiais.
+![image](https://user-images.githubusercontent.com/114196258/204162330-25d8139f-69fa-47f3-8650-a188188b1d6f.png)
+
+### CT- 24 – Cadastro - Bairro
+
+Ao digitar letras e carcteres especiais, deve ser apresentado um alerta informando que o bairro deve conter apenas letras.
+![image](https://user-images.githubusercontent.com/114196258/204162498-9a09ac7e-8a48-4f1a-afd0-8e5c6cfd2e6a.png)
+
+Ao digitar letras e caracteres especiais.
+![image](https://user-images.githubusercontent.com/114196258/204162632-cc1c20c2-e92d-4286-8f9b-8c5172973aab.png)
+
+### CT- 25 – Cadastro - Campos Vazios
+
+Ao preencher todos os campos, o usuário será direcionado para a tela de "Login"
+![image](https://user-images.githubusercontent.com/114196258/204162768-2b04646f-ba68-4177-8fcf-41f444a17165.png)
+
+Se faltar o preenchimento de algum campo será apresentado uma mensagem indicando qual campo falta ser preenchido.
+![image](https://user-images.githubusercontent.com/114196258/204163143-1f32e02b-9b44-4d39-ad6e-204fb387f609.png)
+
 ## Login
+
+### CT- 26 – Área Logada – Navegabilidade – Login
+
+Clicando no botão "Login" na página "Home Page" o usuário será direcionado para a página de "Login"
+![CT26 1](https://user-images.githubusercontent.com/114196258/204164704-0e50a2df-a1dd-4c38-a14f-36053c4b70b2.png)
+
+Após clicar no botão "Login"
+![CT26 2](https://user-images.githubusercontent.com/114196258/204164718-80ef9e4c-0d70-4dc7-967e-79242feed9aa.png)
+
+### CT 27 - Área Logada - Navegabilidade - Botão "Entrar"
+
+Clicar no botão "Entrar" ao digitar o puc-mail e senha, o usuário será direcionado para a páginal de "Home Page" área logada.
+![CT27 1](https://user-images.githubusercontent.com/114196258/204165053-4719ce23-7962-4161-b41d-4f5297ce0393.png)
+
+Ao digitar usuário e senha e clicar no botão "Entrar"
+![CT27 2](https://user-images.githubusercontent.com/114196258/204165100-e660fb86-2d05-4128-9b8a-7438cbc657ff.png)
+
+### CT- 28 – Área Logada - Navegabilidade – Link “Cadastre-se”
+
+Caso não tenha se cadastrado na aplicação, clicar no link "Cadastre-se"
+![CT28 1](https://user-images.githubusercontent.com/114196258/204165321-9f2eb3c0-3886-44a4-8dde-0c7883e97d66.png)
+
+Após clicar em "Cadastre-se", o usuário será direcionado para a página de "Cadastro".
+![image](https://user-images.githubusercontent.com/114196258/204165288-8810373d-9fb2-4a9d-a915-c409b7d94dde.png)
+
+### CT- 29 – Área Logada - Navegabilidade – Botão Voltar
+
+Ao clicar no botão "Voltar" representado pela seta, o usuário será direcionado a "Home Page"
+![CT29 1](https://user-images.githubusercontent.com/114196258/204165513-abbe898d-4c98-464b-a577-a16283fbdd4f.png)
+
+Após clicar no botão "Voltar"
+![CT29 2](https://user-images.githubusercontent.com/114196258/204165527-894c7113-e33d-4aa9-ba03-547ef637f47b.png)
+
+### CT- 30 – “Login” – Responsividade
+
+Ao utilizar a aplicação em dispositivos móveis, a página se adaptará para exibir as informações de forma responsiva.
+![image](https://user-images.githubusercontent.com/114196258/204165594-e93a73f9-b3fa-488c-beee-c94ab7ed177c.png)
+
+### CT- 31 – E-mail – Teste de Campos de Formulários
+
+Digitar e-mail cadastrado.
+![image](https://user-images.githubusercontent.com/114196258/204165812-042e6f8b-db56-452e-8573-5c682af150bb.png)
+
+### CT-32 - Senha - Teste de Campo de Formulários
+Digitar senha deve conter no mínimo 8 caracteres.
+![image](https://user-images.githubusercontent.com/114196258/204165960-e9b6aed5-c0b9-4b0e-83fb-eb8eccf804c3.png)
+
+Após digitar o e-mail e senha, clicar no botão "Entrar" o usuário será direcionado para a páginal de "Home Page" área logada.
+![image](https://user-images.githubusercontent.com/114196258/204166049-f7ced6be-e414-4f00-ba9c-6327b1dbe8c5.png)
 
 ## Perfil
 
