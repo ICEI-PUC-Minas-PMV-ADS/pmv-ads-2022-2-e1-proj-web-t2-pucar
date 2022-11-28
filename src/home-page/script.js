@@ -31,6 +31,19 @@ if (usuarioLogado) {
     `
 }
 
+function checkLogado() {
+    if (usuarioLogado) {
+        document.getElementById('campo-busca-form').action = "/resultado-busca/index.html"
+    }
+}
+checkLogado()
+
+function checknLogado() {
+    if (!usuarioLogado) {
+        alert('Você precisa se logar para buscar!')
+    }
+}
+
 function sair() { 
     localStorage.setItem('usuarioLogado', null)
     location.reload()
