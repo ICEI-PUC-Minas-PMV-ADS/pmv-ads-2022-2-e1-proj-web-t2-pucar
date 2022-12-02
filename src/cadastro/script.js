@@ -91,7 +91,7 @@ function cadastrar() {
 
     localStorage.setItem('users', JSON.stringify(users))
 
-    location.href = '/login'
+    location.href = '/src/login'
 
 }
 

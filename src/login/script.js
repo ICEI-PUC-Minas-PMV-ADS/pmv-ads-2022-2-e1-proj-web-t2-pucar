@@ -7,7 +7,7 @@ function logar() {
     const logado = users.find(user => user.email === email && user.senha === senha)
 
     if (logado) {
-        location.href = '/home-page'
+        location.href = '/src/home-page/index.html'
         localStorage.setItem('usuarioLogado', JSON.stringify(logado))
         return
     }
