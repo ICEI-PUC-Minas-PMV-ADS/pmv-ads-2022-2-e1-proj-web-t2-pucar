@@ -7,7 +7,7 @@ function logar() {
     const logado = users.find(user => user.email === email && user.senha === senha)
 
     if (logado) {
-        location.href = './src/home-page/index.html'
+        location.href = '/pmv-ads-2022-2-e1-proj-web-t2-pucar/src/home-page/index.html'
         localStorage.setItem('usuarioLogado', JSON.stringify(logado))
         return
     }

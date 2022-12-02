@@ -39,5 +39,5 @@ function getUrlVars() {
 
 function sair() { 
     localStorage.setItem('usuarioLogado', null)
-    location.href = "./src/home-page"
+    location.href = "/pmv-ads-2022-2-e1-proj-web-t2-pucar/src/home-page/index.html"
 }

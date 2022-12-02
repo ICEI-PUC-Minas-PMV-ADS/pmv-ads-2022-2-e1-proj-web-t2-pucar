@@ -55,7 +55,7 @@ function desativar() {
         localStorage.removeItem('usuarioLogado')
 
         alert('Conta desativada')
-        location.href = './src/home-page'
+        location.href = '/pmv-ads-2022-2-e1-proj-web-t2-pucar/src/home-page/index.html'
 
     }
 
