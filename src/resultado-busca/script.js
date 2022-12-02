@@ -39,5 +39,5 @@ function getUrlVars() {
 
 function sair() { 
     localStorage.setItem('usuarioLogado', null)
-    location.href = "/src/home-page"
+    location.href = "./src/home-page"
 }

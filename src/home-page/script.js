@@ -11,7 +11,7 @@ const usuarioLogado = JSON.parse(localStorage.getItem('usuarioLogado'))
 if (usuarioLogado) {
     const cabecalhoDireita = document.getElementById('cabecalho-direita')
     cabecalhoDireita.innerHTML = `
-        <button onclick='location.href = "/src/perfil"'>Perfil</button>
+        <button onclick='location.href = "./src/perfil"'>Perfil</button>
         <button onclick='sair()'>Sair</button>
     `
 }
@@ -19,7 +19,7 @@ if (usuarioLogado) {
 if (usuarioLogado) {
     const perfil = document.getElementById('perfil')
     perfil.innerHTML = `
-        <a class="nav-link" href="/src/perfil">Perfil</a>
+        <a class="nav-link" href="./src/perfil">Perfil</a>
     `
 }
 
@@ -33,7 +33,7 @@ if (usuarioLogado) {
 
 function checkLogado() {
     if (usuarioLogado) {
-        document.getElementById('campo-busca-form').action = "/src/resultado-busca/index.html"
+        document.getElementById('campo-busca-form').action = "./src/resultado-busca/index.html"
     }
 }
 checkLogado()

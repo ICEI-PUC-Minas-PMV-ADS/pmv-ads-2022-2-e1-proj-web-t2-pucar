@@ -55,7 +55,7 @@ function desativar() {
         localStorage.removeItem('usuarioLogado')
 
         alert('Conta desativada')
-        location.href = '/src/home-page'
+        location.href = './src/home-page'
 
     }
 
