@@ -91,7 +91,7 @@ function cadastrar() {
 
     localStorage.setItem('users', JSON.stringify(users))
 
-    location.href = '/src/login'
+    location.href = '/pmv-ads-2022-2-e1-proj-web-t2-pucar/src/login/index.html'
 
 }
 
